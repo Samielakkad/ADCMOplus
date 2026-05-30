@@ -7,6 +7,7 @@
 **Sami El Akkad** · Undergraduate Graduation Project
 Northwestern Polytechnical University · Supervisor: **Lin Li** · 2025
 
+[![AI + Optimization](https://img.shields.io/badge/AI%20%2B-Optimization-8A2BE2)](#)
 [![Field](https://img.shields.io/badge/field-evolutionary%20computation-8A2BE2)](#)
 [![Platform](https://img.shields.io/badge/MATLAB-PlatEMO%204.x-orange)](https://github.com/BIMK/PlatEMO)
 [![Theory](https://img.shields.io/badge/guarantee-O(%E2%88%9AT%C2%B7logK)%20regret-2E86AB)](#theory)
