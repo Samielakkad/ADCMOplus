@@ -87,6 +87,19 @@ right reaction for the problem it faces.
 count above an explicit threshold guarantees the magnitude-ratio classifier
 returns the correct change class with probability at least $1-\delta$.
 
+### Run the theory yourself
+
+Theorem 1 isn't just on paper — [`demo/hedge_regret.py`](demo/hedge_regret.py) is a
+self-contained simulation (numpy only) of the Hedge meta-policy that shows the
+realised regret staying **under** the proven bound at every horizon:
+
+```bash
+pip install -r requirements.txt
+python demo/hedge_regret.py     # → 'regret / bound = 51% (must be <= 100%)' + the figure below
+```
+
+![Hedge regret under the theoretical bound](figures/hedge_regret_demo.png)
+
 ## Empirical evidence (runnable)
 
 The thesis experiments run in MATLAB/PlatEMO, but to make the method
