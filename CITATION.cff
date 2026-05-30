@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "If you reference this work, please cite it as below."
+title: "ADCMOplus: An Online-Learning Evolutionary Algorithm for Dynamic Constrained Multi-Objective Optimization"
+abstract: >-
+  An online-learning evolutionary algorithm for dynamic constrained
+  multi-objective optimization. Four learned components — sentinel-based change
+  detection with adaptive sampling, a magnitude-ratio change classifier, an
+  order-p autoregressive Pareto-set predictor with manifold transfer, and a
+  Hedge meta-policy over response arms — are bound together by formal regret and
+  identifiability guarantees.
+type: thesis
+authors:
+  - family-names: "El Akkad"
+    given-names: "Sami"
+  - family-names: "Li"
+    given-names: "Lin"
+institution:
+  name: "Northwestern Polytechnical University"
+year: 2025
+keywords:
+  - dynamic optimization
+  - constrained multi-objective optimization
+  - evolutionary computation
+  - online learning
+  - autoregressive prediction
+license: "LicenseRef-All-Rights-Reserved"
