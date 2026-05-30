@@ -186,3 +186,8 @@ reach out — happy to share for academic or hiring review.
 <div align="center">
 © 2025 Sami El Akkad · Architecture diagrams and text on this page are the author's own work.
 </div>
+
+
+---
+
+**License — All rights reserved.** This repository is shared for review only. Please **contact me before using any part of it** for any purpose. See [LICENSE](LICENSE).
