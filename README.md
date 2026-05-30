@@ -132,7 +132,7 @@ The full source code, the thesis PDF, and the experimental data live in a
 **private repository**. If you'd like to read the thesis or run the algorithm,
 reach out — happy to share for academic or hiring review.
 
-**Contact:** Sami El Akkad · [sam25@mails.tsinghua.edu.cn](mailto:sam25@mails.tsinghua.edu.cn)
+**Contact:** Sami El Akkad · [sam25@mails.tsinghua.edu.cn](mailto:sam25@mails.tsinghua.edu.cn) · [LinkedIn](https://www.linkedin.com/in/samielakkad)
 
 ---
 
